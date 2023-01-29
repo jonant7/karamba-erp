@@ -1,4 +1,4 @@
-package com.karamba.erp;
+package com.karamba.erp.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

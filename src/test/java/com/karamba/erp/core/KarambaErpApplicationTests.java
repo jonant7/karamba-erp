@@ -1,4 +1,4 @@
-package com.karamba.erp;
+package com.karamba.erp.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
